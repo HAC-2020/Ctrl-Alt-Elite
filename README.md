@@ -1,7 +1,8 @@
 # Ctrl-Alt-Elite
 
+Medeasy(Medicine delivery app)
 
-This is medicine delivery application specially made for home quarantined patients so that they can get the basic and required medication on time and so that they or their family members do not need to go out for medication during this pandemic.
+This is medicine delivery application specially made for home quarantined patients so that they can get the basic and required medication on time and so that they or their family members do not need to go out for medication during this pandemic.The user can see the nearby shops through map to get easy and fast delivery of their medicine's
 
 
 This application will also provide ease to search medicines according to symptoms having by any user.
