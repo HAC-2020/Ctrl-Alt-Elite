@@ -29,8 +29,13 @@ TEAM MEMBERS :
 5.Darshil Patel
 
 
-
 For a Video Presentation of the Project Checkout the link :- https://youtu.be/vfhU0lZy4ss
+
+<img src="https://user-images.githubusercontent.com/53492853/89730654-52d9ae00-da5e-11ea-8546-aa9ce97866bb.png" width ="400" height="700">      <img src="https://user-images.githubusercontent.com/53492853/89730655-53724480-da5e-11ea-8471-157c8f30576f.png" width ="400" height="700">
+
+<img src="https://user-images.githubusercontent.com/53492853/89730656-59682580-da5e-11ea-877f-6586b6d3fd3b.png" width ="400" height="400">      <img src="https://user-images.githubusercontent.com/53492853/89730659-5e2cd980-da5e-11ea-80bd-0f621a7b7cdb.png" width ="400" height="700">
+
+<img src="https://user-images.githubusercontent.com/53492853/89730658-5d944300-da5e-11ea-8bdb-6fca18e86576.png" width ="400" height="700">      <img src="https://user-images.githubusercontent.com/53492853/89730657-5c631600-da5e-11ea-8d3f-0bd15f58eba2.png" width ="400" height="700">
 
 
 
